@@ -1,0 +1,11 @@
+,Date,Profession,MaritalStatus,Salary,YearsOfExperience,Performance
+0,2023-01-01,Engineer,Married,98268,27,Medium
+1,2023-01-02,Doctor,Single,73567,2,Good
+2,2023-01-03,Lawyer,Divorced,72613,7,Medium
+3,2023-01-04,Architect,Widowed,75891,8,Good
+4,2023-01-05,Teacher,Single,51243,24,Good
+5,2023-01-06,Chef,Married,71993,15,Medium
+6,2023-01-07,Dentist,Divorced,85026,25,Poor
+7,2023-01-08,Musician,Married,78600,18,Good
+8,2023-01-09,Journalist,Single,69512,6,Poor
+9,2023-01-10,Nurse,Widowed,82620,26,Good
